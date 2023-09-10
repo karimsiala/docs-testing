@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Open Roboverse Knowledge Base'
+copyright = '2023, Open Roboverse e.V.'
+author = 'Karim Siala'
 
 release = '0.1'
 version = '0.1.0'
