@@ -1,7 +1,7 @@
 Welcome to Open Roboverse's test documentation!
 ===================================
 
-# Getting Started with Simulated Robotics using ROS 2 and Gazebo
+Getting Started with Simulated Robotics using ROS 2 and Gazebo
 
 **1. Introduction**
 
