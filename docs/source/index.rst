@@ -12,7 +12,7 @@ Welcome to Open Roboverse's test documentation!
     - Introduction to simulation in robotics
     - Benefits of using Gazebo
 
- **2. Setting Up the Environment**
+**2. Setting Up the Environment**
 
 - **System Requirements**
     - Recommended OS (e.g., Ubuntu)
@@ -24,7 +24,7 @@ Welcome to Open Roboverse's test documentation!
     - Installation steps
     - Integrating Gazebo with ROS 2
 
- **3. Basic Concepts**
+**3. Basic Concepts**
 
 - **ROS 2 Nodes**
     - What are nodes?
@@ -36,7 +36,7 @@ Welcome to Open Roboverse's test documentation!
     - Difference between services and actions
     - Creating and using services and actions
 
- **4. Simulating with Gazebo**
+**4. Simulating with Gazebo**
 
 - **Launching a Simulation**
     - Using pre-built worlds
@@ -48,7 +48,7 @@ Welcome to Open Roboverse's test documentation!
     - Using simulated cameras, LIDARs, and other sensors
     - Simulating robot movement and actions
 
- **5. Building a Simple Project**
+**5. Building a Simple Project**
 
 - **Robot Design**
     - Choosing a robot model
@@ -60,7 +60,7 @@ Welcome to Open Roboverse's test documentation!
     - Running the robot in different environments
     - Debugging and troubleshooting
 
- **6. Advanced Topics**
+**6. Advanced Topics**
 
 - **Multi-Robot Systems**
     - Simulating multiple robots in Gazebo
@@ -82,23 +82,18 @@ Welcome to Open Roboverse's test documentation!
     - ROS forums and discussion groups
     - Gazebo community channels
 
- **8. Conclusion**
+**8. Conclusion**
 
-- Recap of the importance of simulation in robotics
-- Encouragement for continuous learning and experimentation
+    - Recap of the importance of simulation in robotics
+    - Encouragement for continuous learning and experimentation
 
- **9. Appendices**
-
-- **Troubleshooting Common Issues**
-- **Glossary of Terms**
-- **Reference Links**
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This is a prototype on how the Knowledge Base would look like!
 
 Contents
 --------
